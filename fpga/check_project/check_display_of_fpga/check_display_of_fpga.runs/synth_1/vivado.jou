@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Nov  9 22:25:33 2022
+# Process ID: 8632
+# Current directory: H:/Semester 7/CA/Lab/Lab2/uart-github/verilog-uart-working/for_fpga/check_project/check_display_of_fpga/check_display_of_fpga.runs/synth_1
+# Command line: vivado.exe -log check_display_of_fpga.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source check_display_of_fpga.tcl
+# Log file: H:/Semester 7/CA/Lab/Lab2/uart-github/verilog-uart-working/for_fpga/check_project/check_display_of_fpga/check_display_of_fpga.runs/synth_1/check_display_of_fpga.vds
+# Journal file: H:/Semester 7/CA/Lab/Lab2/uart-github/verilog-uart-working/for_fpga/check_project/check_display_of_fpga/check_display_of_fpga.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source check_display_of_fpga.tcl -notrace

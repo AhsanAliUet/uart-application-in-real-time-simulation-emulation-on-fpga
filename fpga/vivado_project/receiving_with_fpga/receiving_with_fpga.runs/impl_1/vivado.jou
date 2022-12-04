@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue Nov 15 19:07:56 2022
+# Process ID: 13588
+# Current directory: H:/Semester 7/CA/Lab/Lab2/uart-github/verilog-uart-working/for_fpga/vivado_project/receiving_with_fpga/receiving_with_fpga.runs/impl_1
+# Command line: vivado.exe -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file: H:/Semester 7/CA/Lab/Lab2/uart-github/verilog-uart-working/for_fpga/vivado_project/receiving_with_fpga/receiving_with_fpga.runs/impl_1/top.vdi
+# Journal file: H:/Semester 7/CA/Lab/Lab2/uart-github/verilog-uart-working/for_fpga/vivado_project/receiving_with_fpga/receiving_with_fpga.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source top.tcl -notrace

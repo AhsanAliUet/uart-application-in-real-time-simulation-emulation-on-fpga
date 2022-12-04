@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="synth_1" LaunchDir="H:/Semester 7/CA/Lab/Lab2/uart-github/verilog-uart-working/for_fpga/check_project/check_display_of_fpga/check_display_of_fpga.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+</Runs>
+
