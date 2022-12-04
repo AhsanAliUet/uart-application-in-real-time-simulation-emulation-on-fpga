@@ -20,9 +20,7 @@ A picture explaining this project is given below:
 
 SSD stands for seven segment displays. 
 
+# Questions?  
+You can reach me at ahsan.uet.ee.115@gmail.com
 # Author
 - [@Ahsan Ali](https://github.com/AhsanAliUet)
-
-
-
-
