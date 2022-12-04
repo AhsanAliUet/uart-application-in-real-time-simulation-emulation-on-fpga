@@ -8,7 +8,11 @@ For example, you have made a counter which counts upto maximum decimal value 20.
 To avoid this, just instantiate UART receiver in the design (in this case it is a counter). Receiver will receive data serially from computer/PC/Laptop/Microcontroller or any serial data sending device, and give this data to design and design will now operate on the new coming data.  
 
 # Motivation
-Another motivation is, if you run out of input switches on FPGA, you can give input to your FPGA using this scenario. I hope I was able to make you understand this project.  
+i. Another motivation is, if you run out of input switches on FPGA, you can give input to your FPGA using this scenario. I hope I was able to make you understand this project.  
+
+ii. If we run out of input pins on FPGA, we can instantiate (keeping everything else same) receiver of uart in DUT (design under test). Receiver will receive data from PC/Laptop/Microcontroller serially and convert this serial data to parallel data and give it to DUT to use it without hesitation of shortage of input pins.  
+
+
 
 A picture explaining this project is given below:
 
